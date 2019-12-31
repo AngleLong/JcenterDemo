@@ -22,7 +22,7 @@
 ./nexus status
 ```
 
-![22c883d753cf305692bec54b7a556165.png](https://github.com/AngleLong/JcenterDemo/images/image_1.png)
+![22c883d753cf305692bec54b7a556165.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_1.png)
 
 之后如果[http://localhost:8081/](http://localhost:8081/)能打开,说明启动成功了!
 
@@ -41,13 +41,13 @@
 #### 2. 在创建一个库(aar保存的库)
 > 关于存储库的设置,其实就是用来保存类库的位置
 
-![177b39a1bfae738f89fc82602be8eca3.png](https://github.com/AngleLong/JcenterDemo/images/image_2.png)
+![177b39a1bfae738f89fc82602be8eca3.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_2.png)
 
-![3f54eed3896d4bbdf8eb2ae3ca5e4dc5.png](https://github.com/AngleLong/JcenterDemo/images/image_3.png)
+![3f54eed3896d4bbdf8eb2ae3ca5e4dc5.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_3.png)
 
 其实就填写这一个就好了,其他的不用设置!
 
-![d5f8478b0c954ba3f3c365c714b822a6.png](https://github.com/AngleLong/JcenterDemo/images/image_4.png)
+![d5f8478b0c954ba3f3c365c714b822a6.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_4.png)
 
 然后你会在这里看到你创建的仓库了,之后就可以愉快的上传aar了,有木有很开森!!!
 
@@ -97,17 +97,17 @@ uploadArchives {
 | virtual(虚拟仓库) | 基本用不到 |
 
 
-![90d871a6f3d5db746f20308f1a0a8a07.jpeg](https://github.com/AngleLong/JcenterDemo/images/image_5.jpg)
+![90d871a6f3d5db746f20308f1a0a8a07.jpeg](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_5.jpg)
 
 看上面这张图就能明白上面说的一些问题了!
 
 其实这里**repository**设置的地址,就是你创建库时候的地址
-![35bf6533f2b06914f129de08a74869a8.png](https://github.com/AngleLong/JcenterDemo/images/image_6.png)
+![35bf6533f2b06914f129de08a74869a8.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_6.png)
 点这里就能看到地址了!
 
 之后吧,就简单了! 
 
-![2e609f0d8891924fea1bea545f42f2fe.png](https://github.com/AngleLong/JcenterDemo/images/image_7.png)
+![2e609f0d8891924fea1bea545f42f2fe.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_7.png)
 
 点一下就好了! 然后你会神奇的发现,你的仓库底下多了一个相应的类库.有了这个类库,我们就能使用maven管理相应的aar文件了!
 
@@ -132,7 +132,7 @@ uploadArchives {
 ## 一些问题说明
 > 上面说过,关于设置用户名和密码的问题!其实是可以设置的!
 
-![22469e537edd8b6680ab269fd7ca6266.png](https://github.com/AngleLong/JcenterDemo/images/image_8.png)
+![22469e537edd8b6680ab269fd7ca6266.png](https://github.com/AngleLong/JcenterDemo/tree/master/images/image_8.png)
 
 通过上面的设置,就可以不使用密码进行获取类库!
 
